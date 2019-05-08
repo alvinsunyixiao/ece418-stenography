@@ -1,0 +1,6 @@
+MAX_FREQ    = 0.8
+MIN_FREQ    = 0.5
+SCALE       = 5e-4
+THRESH      = 256 * SCALE
+QUANT_SCALE = 65535.
+
